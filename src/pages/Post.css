@@ -1,0 +1,68 @@
+*{margin:0;padding:0;}
+
+ul{
+    margin: 0;
+    list-style: none;
+      display: block;
+    color: #333;
+   }
+.activeable{
+ 	display: flex;
+ 	border-bottom: 1px solid #e8e8e8;
+
+
+} 
+.activeable img{
+	margin-top: 0.2rem;
+	width: 20%;
+	height: 20%;
+}
+.item-time,.item-salary{
+	color: #00b38a;
+}
+.item-salary{
+	position: absolute;
+	right: 0.5rem;
+}
+.Load{
+	width: 100%;
+	height:45px;
+	line-height: 45px;
+	font-size: 16px;
+	text-align: center;
+	background: #fafafa;
+}
+#foot{
+	width: 100%;height: 5rem;
+}
+#copyright {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 30px;
+    padding-bottom: 40px;
+    color: #333;
+}
+#top{
+	width: 100%;
+	height: 45px;
+	
+	line-height: 45px;
+
+}
+.top2{
+	position: absolute;
+	width: 20%;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 10px;
+	background:  #f5f5f5;
+	right: 0.3rem;
+	text-align: center;
+	color:#00b38a ;
+}
+.top1{
+	font-size: 0.1rem;
+	position: absolute;
+	left: 0.2rem;
+	
+}

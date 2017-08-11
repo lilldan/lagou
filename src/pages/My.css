@@ -1,0 +1,72 @@
+#Poison{
+   
+}
+#sup #jug{
+    width: 33.33%;
+    height:0.9rem ;
+    background:#1fc8a1 ;
+    font-size: 16px;
+    text-align: center;
+    line-height: 0.9rem;
+    margin: 0 auto;
+    margin-top: 0.84rem;
+
+}
+#sup #jug a{
+    color: white;
+}
+#sup #ad {
+    margin-top: 0.9rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#sup #ad div{
+    width:45%;
+    height: 1.72rem;
+    text-align: center;
+    line-height: 1.72rem;
+    background: #1fc8a1 ;
+    margin-top: 0.2rem;
+    margin-left: 0.24rem;
+
+}
+#sup #ad div a{
+    color: white;
+    font-size: 18px;
+}
+#Poison1{
+    display: none
+}
+#Poison1 #ad{
+    margin-top: 0.3rem;
+}
+#Poison1 #Logout{
+    width: 60%;
+    margin: 0 auto ;
+    background: #1fc8a1;
+    height: 0.9rem;
+    text-align: center;
+    line-height: 0.9rem;
+    font-size: 0.3rem;
+    color: white;
+    margin-top: 0.5rem;
+}
+#head_portrait{
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid ;
+    margin: 0 auto;
+    margin-top: 0.3rem;
+    border-radius: 50%;
+    background: url('267e40983d6f79a2bcffecf2deaea3cf.png')
+}
+#stor{
+    font-size: 16px;
+    
+    width: 100%;
+    text-align: center;
+     margin-top: 0.1rem;
+
+}
+

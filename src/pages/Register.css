@@ -1,0 +1,95 @@
+#regis{
+	width: 7.5rem;
+	height: 13.34rem;
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+}
+#regis input{
+	width: 90%;
+	height: 1.18rem;
+	margin-left: 0.3rem;
+	margin-top: 0.2rem;
+	 border-radius: 10px
+}
+#regis .code{
+	width: 90%;
+	height: 1.18rem;
+
+}
+#regis .register_text {
+    color: #45e3be;
+    font-size: 12px;
+    line-height: 1.3;
+    margin-left: 0.5rem;
+}
+#regis .register,.login{
+	width: 90%;
+	height: 1.18rem;
+	font-size: 20px;
+	border: 1px solid #45e3be;
+	margin: 0.3rem auto;
+	text-align: center;
+	line-height: 1.18rem;
+	border-radius: 10px;
+
+}
+#regis .username{
+	  color: #45e3be;
+    font-size: 12px;
+    line-height: 1.3;
+    margin-left: 0.5rem;
+}
+#regis .register{
+	background: #0ac599;
+	color: wheat
+}
+#regis .login{
+	color: #0ac599
+}
+.code{
+	width: 90%;
+	margin: 0 auto;
+	height: 1.18rem;
+	line-height: 1.18rem
+}
+.code a{
+	color: #45e3be;
+}
+#regis input{
+	 outline: none;
+}
+.input1 p{
+	position: absolute;
+	top: 0;
+	color: red;
+	font-size: 12px;
+	top: 0.6rem;
+	right: 0.45rem;
+	display: none
+}
+.input2 p{
+	position: absolute;
+	top: 0;
+	color: red;
+	font-size: 12px;
+	top: 2.0rem;
+	right: 0.45rem;
+	display: none
+}
+.input3 p{
+	position: absolute;
+	top: 0;
+	color: red;
+	font-size: 12px;
+	top: 4.55rem;
+	right: 0.45rem;
+	display: none
+}
+.input4 p{
+	position: absolute;
+	top: 0;
+	color: red;
+	font-size: 12px;
+	top: 5.9rem;
+	right: 0.45rem;
+	display: none
+}

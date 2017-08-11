@@ -1,0 +1,104 @@
+.zexq{
+
+}
+.Job_Details{
+	display: flex;
+	width: 100%;
+	height: 0.9rem;
+	background:#00b38a ;
+	font-size: 0.4rem;
+	color: white;
+	line-height: 0.9rem;
+	 justify-content: space-around;
+}
+.resume{
+	width: 100%;
+	height: 0.9rem;
+	background:#00b38a ;
+	position: fixed;
+	bottom: 0;
+	color: white;
+	text-align: center;
+	line-height: 0.9rem;
+	font-size: 0.4rem
+
+}
+.jj{
+	width: 100%;
+}
+.jj .jjtop{
+	width: 100%;
+	height: 0.9rem;
+	display: flex;
+	font-size: 0.4rem;
+	border-bottom: 1px solid #e8e8e8;
+	line-height: 0.9rem;
+	justify-content: space-around
+
+}
+.jj .jjsup{
+	border-bottom: 1px solid #e8e8e8;
+	width: 100%;
+	height: 2.5rem;
+}
+.jj .jjsup ul{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.jj .jjsup ul li{
+	width: 30%;
+	text-align: center;
+	height: 0.9rem;
+	line-height: 0.9rem
+
+}
+.jj .jjsup ul li i{
+	color:#00b38a;
+}
+.jj .jjsup span{
+	width: 100%;
+	height: 0.4rem;
+	padding-left: 0.5rem;
+	color:#888 ;	
+}
+.jj .jjad{
+	width: 100%;
+	height: 1.8rem;
+	border-bottom: 1px solid #e8e8e8;
+	display: flex;
+
+}
+.jj .jjad .jjad1{
+	width: 25%;
+	height: 1.8rem;
+
+}
+.jj .jjad .jjad2{
+	width: 60%;
+	height: 1.8rem;
+	line-height: 0.9rem
+}
+.jj .jjad i{
+	text-align: center;
+	line-height: 1.8rem;
+	margin-left: 0.3rem;
+	font-size: 0.5rem;
+	color: #00b38a;
+}
+.jj .jjad .jjad1 img{
+	width: 100%;
+	height: 100%;
+}
+.jj .jjad .jjad2 span{
+	font-size: 0.4rem
+}
+.describe{
+	width: 100%;
+	height: 0.8rem;
+	background: #d2f9f0;
+	line-height: 0.8rem;
+	padding-left: 0.4rem;
+	font-size: 0.3rem;
+	color: #00b38a;
+}

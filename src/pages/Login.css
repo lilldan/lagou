@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 7.5rem;
+	height: 13.34rem;
+	background: -webkit-linear-gradient(135deg,#029253,#00887b);
+}
+.new_register>div{
+	position: relative;
+	width: 100%;
+}
+._info,.pdw{
+	width: 90%;
+	background: #fff;
+	margin: 0 auto;
+	padding: 6% 5%;
+	color: #333;
+	border-top: 1px solid #e0e0e0;
+  
+}
+._info{
+	margin-top: 0.2rem;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+.pdw{
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.phone,.btm{
+	width: 90%;
+	border: none;
+	outline: 0;
+	font-size: 16px "黑体";
+	background: #fff;
+	margin: 0 auto;
+	color: #333;
+}
+.btn_green,.btn_reg{
+	display: block;
+	width: 100%;
+	font-size: 20px;
+	text-align: center;
+	margin: 0.2rem 0;
+	padding: 5%;
+	outline: 0;
+	color: #fff;
+	border-radius: 5px;
+}
+.btn_green{
+	background-color: #0ac599;
+}
+.btn_reg{
+	border: 1px solid #45e3be;
+	color:#45e3be ;
+
+}
+.register_text{
+	color: #45e3be;
+	font-size: 13px;
+	line-height: 1.3
+}
+._info .hint{
+	color: red;
+	font-size: 12px;
+	position: absolute;
+	right: 0.5rem;
+	top: 0.5rem;
+}
+.pdw .pass{
+	color: red;
+	font-size: 12px;
+	position: absolute;
+	right: 1rem;
+	top: 0.45rem;
+}
+.hint,.pass{
+	display: none
+}
